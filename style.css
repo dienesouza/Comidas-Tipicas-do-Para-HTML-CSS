@@ -14,7 +14,19 @@ body {
     align-items: center;
 }
 
-.divparent{
+.divparent1{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.divparent2{
+    width: 1200px;
+    height: 100vh;
     position: absolute;
     display: flex;
     flex-wrap: wrap;
